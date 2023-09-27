@@ -58,4 +58,8 @@ public class TorpedoStore {
   public int getTorpedoCount() {
     return this.torpedoCount;
   }
+
+  public int nothingB(){
+    return 3332;
+  }
 }
