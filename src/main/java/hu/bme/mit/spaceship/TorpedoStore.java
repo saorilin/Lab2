@@ -59,7 +59,9 @@ public class TorpedoStore {
     return this.torpedoCount;
   }
 
+
   public int nothing(){
     return 0;
   }
+
 }
